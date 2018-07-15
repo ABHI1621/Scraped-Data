@@ -1,0 +1,189 @@
+end,end 2,end 3,end 4,end 5,end 6
+Trains from Durgapur,,,,,
+(Durgapur to  train)  (Durgapur to  train),howrah,asansol,,,
+Code,Train Name,Arrives,Departs,Stop time,M	T	W	T	F	S	S
+12020,Shatabdi Express,18:58,19:00,2 min,Y	Y	Y	Y	Y	Y	N
+12019,Shatabdi Express,07:48,07:50,2 min,Y	Y	Y	Y	Y	Y	N
+03114,New Delhi Kolkata Special,20:17,20:19,2 min,Y	N	N	N	N	N	N
+12313,Seldah Rajdhani express,18:48,18:50,2 min,Y	Y	Y	Y	Y	Y	Y
+13318,Blackdiamond Express,18:19,18:21,2 min,Y	Y	Y	Y	Y	Y	Y
+13317,Blackdiamond Express,08:54,08:56,2 min,Y	Y	Y	Y	Y	Y	Y
+13106,Ballia Sealdah Express,23:10,23:12,2 min,Y	Y	Y	Y	Y	Y	Y
+05225,Kolkata Muzaffarpur Special,13:18,13:20,2 min,N	N	N	N	N	N	N
+12381,Poorva Express,10:17,10:19,2 min,N	N	Y	Y	N	N	Y
+12303,Poorva Express,10:04,10:06,2 min,Y	Y	N	N	Y	Y	N
+12333,Vibhuti Express,22:02,22:04,2 min,Y	Y	Y	Y	Y	Y	Y
+05226,Muzaffarpur Kolkata Special,23:25,23:27,2 min,N	N	N	N	N	Y	N
+12354,Lal Kuan Howrah Express,16:20,16:22,2 min,N	N	N	N	N	Y	N
+22612,NEW JALPAIGURI Mas Express,07:35,08:00,25 min,N	N	N	N	Y	N	N
+12342,Agnibina Express,06:12,06:14,2 min,Y	Y	Y	Y	Y	Y	Y
+12340,Coalfield Express,07:50,07:52,2 min,Y	Y	Y	Y	Y	Y	Y
+03136,Gorakhpur Kolkata Special,05:07,05:09,2 min,N	N	N	Y	N	N	N
+19306,Shipra Express,19:51,19:53,2 min,Y	N	N	Y	N	Y	N
+13152,Sealdah Express,12:43,12:45,2 min,Y	Y	Y	Y	Y	Y	Y
+12175,Chambal Express,19:52,19:54,2 min,N	Y	Y	N	N	N	Y
+12322,Kolkata Mail,9:09,9:13,4 min,Y	Y	Y	Y	Y	Y	Y
+12329,Sealdah Delhi W B Sampark Kranti,15:29,15:31,4 min,N	Y	N	N	N	N	N
+13020,Bagh Express,09:29,09:31,4 min,Y	Y	Y	Y	Y	Y	Y
+15661,Ranchi Kamakhya Express,02:47,03:12,25 min,N	N	Y	N	N	N	Y
+02651,Yesvantpur Kamakhya Express,18:40,19:45,65 min,N	N	N	N	N	N	Y
+13010,Doon Express,03:08,03:10,2 min,Y	Y	Y	Y	Y	Y	Y
+03189,Sealdah Anand Vihar Trm Special,11:25,11:27,2 min,N	N	N	N	Y	N	N
+02551,Yesvantpur Kamakhya Express,18:40,19:45,65 min,N	N	N	N	N	Y	N
+13166,Sitamarhi Kolkata Express,08:59,09:01,2 min,N	N	N	N	N	N	Y
+13503,Intercity Express,20:03,20:05,2 min,Y	Y	Y	Y	Y	Y	N
+13504,Intercity Express,07:17,07:19,2 min,Y	Y	Y	Y	Y	Y	N
+03159,Kolkata Patna Junction Special,22:15,22:17,2 min,N	N	N	N	N	N	Y
+03504,Asansol kolkata Pnbe Special,14:27,14:29,2 min,N	Y	N	N	N	N	Y
+03138,Ajmer Howrah  Koaa Special,13:03,13:05,2 min,N	Y	N	N	N	N	N
+13426,Surat St Malda Town E,00:46,01:06,20 min,Y	N	N	N	N	N	N
+03004,Jammu Tawi Howrah Superfast Special,04:21,04:23,2 min,N	N	N	N	N	Y	N
+13138,Azamgarh Kolkata Express,23:25,23:27,2 min,N	Y	N	N	N	N	N
+12552,Kamakhya Yesvantpur Ac Express,07:35,08:00,25 min,N	N	Y	N	N	N	N
+18627,Howrah Ranchi Intercity Express,16:23,16:25,2 min,Y	Y	N	N	N	N	Y
+03131,Kolkata Gorakhpur Special,14:53,14:55,2 min,N	N	Y	N	N	N	N
+53050,Mokameh Howrah Passenger,21:56,22:01,5 min,Y	Y	Y	Y	Y	Y	Y
+15052,Gorakhpur Kolkata Express,00:58,01:00,2 min,N	N	N	Y	N	N	N
+13051,Hool Express,09:46,09:48,2 min,Y	Y	Y	Y	Y	Y	Y
+03067,Howrah Gorakhpur Special,01:59,02:01,2 min,Y	N	N	N	N	N	N
+12382,Poorva Express,14:11,14:13,2 min,Y	Y	N	N	Y	N	N
+15662,Kamakhya Ranchi Express,07:35,08:00,25 min,N	Y	N	N	N	Y	N
+12334,Vibhuti Express,04:55,04:57,2 min,Y	Y	Y	Y	Y	Y	Y
+12360,Kolkata Garib Rath,02:35,02:37,2 min,N	N	Y	N	Y	N	Y
+02552,Kamakhya Yesvantpur Special,07:35,08:05,30 min,N	N	Y	N	N	N	N
+03003,Howrah Jammu Tawi Special,02:02,02:04,2 min,N	N	N	Y	N	N	N
+53049,Howrah Mokameh Passenger,02:41,02:48,7 min,Y	Y	Y	Y	Y	Y	Y
+06337,Guwahati Kochuveli Mas Kcvl Express,08:03,08:06,3 min,N	N	Y	N	N	N	N
+01447,Shaktipunj Express,01:30,01:32,2 min,N	Y	N	N	N	N	N
+03132,Gorakhpur Kolkata Special,05:47,05:49,2 min,N	N	N	Y	N	N	N
+12304,Poorva Express,14:11,14:13,2 min,N	N	Y	Y	N	Y	Y
+12496,Pratap Express,01:00,01:02,2 min,N	N	N	N	Y	N	N
+04832,Kolkata Jodhpur Special,20:44,20:46,2 min,N	N	N	N	N	Y	N
+13157,Tirhut Express,00:15,00:17,2 min,N	Y	N	N	N	N	N
+13137,Kolkata Azamgarh Bp Amh Express,14:53,14:55,2 min,Y	N	N	N	N	N	N
+12753,Chennai New Jalpaiguri Express,17:12,17:52,40 min,N	N	Y	N	N	N	N
+22911,Shipra Express,04:26,04:28,2 min,N	Y	N	Y	N	Y	N
+03571,Kolkata Muzaffarpur Special,14:38,14:40,2 min,Y	N	N	N	N	N	N
+12359,Kolkata Patna Garib Rath,22:12,22:14,2 min,N	Y	N	Y	N	Y	N
+12385,Howrah Dhanbad D D Express,10:49,10:51,2 min,Y	Y	Y	Y	Y	Y	N
+13155,Mithilanchal Express,00:15,00:17,2 min,N	N	N	Y	N	N	Y
+53046,Mayurakshi Fast Passenger,08:17,08:19,2 min,Y	Y	Y	Y	Y	Y	Y
+18628,Ranchi Howrah Intercity Express,10:57,10:59,2 min,Y	Y	N	N	N	N	Y
+03126,Anand Vihar Kolkata Superfast Special,15:20,15:22,2 min,N	N	N	N	N	N	Y
+12320,Agra Kolkata Express,14:27,14:29,2 min,N	N	N	Y	N	N	N
+12319,Kolkata Agra  Express,15:29,15:31,2 min,N	N	Y	N	N	N	N
+04120,Allahabad Howrah Special,11:52,11:54,2 min,N	N	N	N	Y	N	Y
+03065,Howrah Patna Special,01:53,01:55,2 min,N	N	Y	N	N	N	N
+12176,Chambal Express,04:26,04:28,2 min,N	Y	N	Y	N	Y	N
+03062,Lokmanyatilak Howrah Puja Special,00:45,00:47,2 min,N	N	N	Y	N	N	N
+03074,Patna Howrah Special,05:40,05:42,2 min,N	N	N	N	N	N	Y
+03073,Howrah Patna Special,14:53,14:55,2 min,N	N	N	N	N	Y	N
+03134,Patna Kolkata Special,17:56,17:58,2 min,N	Y	N	N	N	N	N
+19413,Kolkata Express,12:33,12:35,2 min,N	N	Y	N	N	N	N
+03029,Howrah Raxual Special,01:59,02:01,2 min,N	N	N	N	N	Y	N
+53045,Mayurakshi Fast Passenger,19:13,19:15,2 min,Y	Y	Y	Y	Y	Y	Y
+23040,Rajgir Howrah Ch,02:04,02:08,4 min,Y	Y	Y	Y	Y	Y	Y
+03030,Raxual Howrah Special,08:52,08:54,2 min,N	N	N	N	N	N	Y
+22388,Blackdiamond Express,18:19,18:21,2 min,Y	Y	Y	Y	Y	Y	Y
+15630,Guwahati Ms Express,09:18,09:38,20 min,N	N	N	N	Y	N	N
+12178,Chambal Express,04:26,04:28,2 min,Y	N	N	N	N	N	N
+12372,Jaisalmer Howrah Superfast Express,13:52,13:54,2 min,N	N	N	Y	N	N	N
+03125,Kolkata Anand Vihar special,16:23,16:25,2 min,N	N	N	N	N	Y	N
+03135,Kolkata Gorakhpur Special,14:56,14:58,2 min,N	N	Y	N	N	N	N
+15905,Kanyakumari Dibrugarh Vivek Express,00:46,01:06,20 min,N	N	N	Y	N	N	N
+03190,Anand Vihar Sealdah Superfast Special,08:57,08:59,20 min,N	N	N	N	N	Y	N
+12339,Coal Field Express,19:24,19:26,2 min,Y	Y	Y	Y	Y	Y	Y
+12341,Agnibina Express,20:24,20:26,2 min,Y	Y	Y	Y	Y	Y	Y
+03043,Howrah Raxual Special,01:59,02:01,2 min,N	N	Y	N	Y	N	N
+03015,Howrah Haridwar Puja Special,00:55,00:57,2 min,N	Y	N	N	N	N	N
+23010,Doon Exxpress,03:08,03:10,2 min,Y	Y	Y	Y	Y	Y	Y
+13158,Tirhut Express,23:25,23:27,2 min,N	N	Y	N	N	N	N
+53131,Sealdah Muzaffarpur Fast passenger,09:58,10:00,2 min,Y	Y	Y	Y	Y	Y	Y
+13052,Hool Express,15:09,15:11,2 min,Y	Y	Y	Y	Y	Y	Y
+13026,Bhopal Howrah Express,12:33,12:35,2 min,N	N	Y	N	N	N	N
+12321,Howrah Mumbai Mail,00:05,00:07,2 min,Y	Y	Y	Y	Y	Y	Y
+03129,Kolkata Haridwar Njp Special,02:02,02:04,2 min,N	N	Y	N	N	N	N
+13165,Kolkata Sitamarhi Express,01:00,01:02,2 min,N	N	N	N	N	Y	N
+19605,Kolkata Ahmedabad Express,15:27,15:29,2 min,N	N	N	N	N	Y	N
+19606,Ahmedabad Kolkata Express,12:34,12:36,2 min,N	N	Y	N	N	N	N
+03113,Kolkata New Delhi Special,02:28,02:30,2 min,N	N	N	N	N	N	Y
+12312,Kalka Mail,05:06,05:10,4 min,Y	Y	Y	Y	Y	Y	Y
+13019,Bagh Express,00:26,00:28,2 min,Y	Y	Y	Y	Y	Y	Y
+15233,Kolkata Darbhanga Express,13:18,13:20,2 min,Y	N	N	Y	N	N	N
+13044,Raxual Howrah Express,08:59,09:01,2 min,N	N	N	Y	N	Y	N
+13007,U Abhatoofan Express,12:33,12:35,2 min,Y	Y	Y	Y	Y	Y	Y
+19607,Kolkata Ajmer Aii Wkly Express,14:53,14:55,2 min,N	N	N	Y	N	N	N
+13005,Amritsar Mail,21:11,21:14,3 min,Y	Y	Y	Y	Y	Y	Y
+19608,Ajmer Kolkata Express,13:03,13:05,2 min,Y	N	N	Y	N	N	N
+13009,Doon Express,23:31,23:33,2 min,Y	Y	Y	Y	Y	Y	Y
+13136,Jaynagar Kolkata Express,23:25,23:27,2 min,N	N	N	N	N	N	Y
+03543,Howrah Raxual Special,01:59,02:01,2 min,N	N	N	N	Y	N	N
+13425,Malda Town Surat Express,17:27,17:47,20 min,N	N	N	N	N	Y	N
+06336,Guwahati Express,13:40,14:05,25 min,N	N	N	N	N	N	Y
+12353,Howrah Lal Kuan Express,10:17,10:19,2 min,N	N	N	N	Y	N	N
+13008,U A Toofan Express,15:55,15:57,2 min,Y	Y	Y	Y	Y	Y	Y
+13186,Ganga Sagar Express,02:13,02:15,2 min,Y	Y	Y	Y	Y	Y	Y
+12351,Danapur Express,22:38,22:40,2 min,Y	Y	Y	Y	Y	Y	Y
+12314,Sealdah Rjdhani,07:47,07:49,2 min,Y	Y	Y	Y	Y	Y	Y
+12330,W B Sampark Kranti,14:27,14:29,2 min,N	N	Y	N	N	N	N
+13022,Mithila Express,00:33,00:37,4 min,Y	Y	Y	Y	Y	Y	Y
+12177,Chambal Express,19:52,19:54,4 min,N	N	N	N	Y	N	N
+15942,Dibrugarh Jhajha Express,13:35,14:00,25min,N	N	N	Y	N	N	N
+22387,Blackdiamond Express,08:55,08:57,2 min,Y	Y	Y	Y	Y	Y	Y
+03585,Kolkota Jaynagar Special,22:17,22:19,2 min,Y	N	N	N	N	N	N
+03173,Sealdah Barhni Special,14:53,14:55,2 min,N	N	N	N	N	N	Y
+13132,Anand Vihar Kolkata Express,03:31,03:35,4 min,Y	Y	Y	Y	Y	Y	Y
+12352,Danapur Howrah Express,04:15,04:17,2 min,Y	Y	Y	Y	Y	Y	Y
+15941,Jhajha Dibrugarh Express,02:47,03:12,25 min,N	N	N	N	Y	N	N
+22612,New Jalpaiguri Chennai Express,07:35,08:00,25 min,N	N	N	N	Y	N	N
+15629,Guwahati Express,08:45,09:10,25 min,Y	N	N	N	N	N	N
+15639,Puri Ghy Express,02:47,03:12,25 min,N	Y	N	N	N	N	N
+12379,Jalianwalab Express,15:29,15:31,2 min,N	N	N	N	Y	N	N
+15906,Vivek Express,07:35,08:00,25 min,N	N	N	N	N	Y	N
+13417,Dgha Mldt Express,08:45,09:10,25 min,N	N	N	Y	N	N	N
+15047,Purbanchal Express,17:38,17:43,5 min,Y	Y	N	Y	N	Y	N
+12380,Jalianwala B Express,14:27,14:29,2 min,N	N	N	N	N	N	Y
+11447,Shaktipunj Express,01:30,01:32,2 min,Y	Y	Y	Y	Y	Y	Y
+13418,Mldt Dgha Express,13:35,14:00,25 min,N	N	N	Y	N	N	N
+15235,Hwh Dbg Express,13:18,13:20,2 min,N	N	N	N	N	Y	N
+12384,Intercity Express,07:25,07:26,1 min,Y	Y	Y	Y	Y	Y	N
+12383,Intercity Express,20:03,20:04,1 min,Y	Y	Y	Y	Y	Y	N
+13043,Hwh Rxl Express,01:59,02:01,2 min,N	N	Y	N	Y	N	N
+15050,Gkp Kolkata Express,00:58,01:00,2 min,N	N	Y	N	N	Y	N
+15929,Dibrugarh Express,08:45,09:10,25 min,N	N	N	Y	N	N	N
+03061,Hwh Ltt Special,10:17,10:19,2 min,N	Y	N	N	N	N	N
+13185,Gangasagar Express,21:27,21:32,5 min,Y	Y	Y	Y	Y	Y	Y
+13135,Koaa Jyg Express,00:15,00:17,2 min,N	N	N	N	N	Y	N
+13151,Jammu Tawi Express,14:25,14:27,2 min,Y	Y	Y	Y	Y	Y	Y
+13105,Sdah Bui Express,16:33,16:35,2 min,Y	Y	Y	Y	Y	Y	Y
+13049,Amritsar Express,17:17,17:19,2 min,Y	Y	Y	Y	Y	Y	Y
+22611,Mas Njp Express,17:12,17:47,35 min,N	N	Y	N	N	N	N
+53520,Grd Link Passenger Express,03:31,03:35,4 min,Y	Y	Y	Y	Y	Y	Y
+12311,Hwh Dli Klk Mail,21:41,21:43,2 min,Y	Y	Y	Y	Y	Y	Y
+12386,Dhn Hwh D D Express,20:15,20:17,2 min,Y	Y	Y	Y	Y	Y	N
+15048,Purvanchal Express,00:58,01:00,2 min,Y	Y	N	N	Y	N	Y
+22912,Shipra Express,19:52,19:54,2 min,Y	N	N	Y	N	Y	N
+15051,Koaa Gkp Express,17:41,17:43,2 min,N	N	N	N	Y	N	N
+15930,Dbrg Ms Express,09:18,09:38,20 min,N	N	N	N	N	N	Y
+13050,Asr Hwh Express,11:53,11:57,4 min,Y	Y	Y	Y	Y	Y	Y
+15640,Ghy Puri Express,13:35,14:00,25 min,N	N	N	N	N	N	Y
+12551,Yprkyq Ac Express,18:43,19:08,25 min,N	N	N	N	N	Y	N
+13006,Asr Hwh Mail,04:42,04:46,4 min,Y	Y	Y	Y	Y	Y	Y
+15049,Koaa Gkp Express,17:38,17:43,5 min,N	N	Y	N	N	N	Y
+12024,Janshatabdi Express,11:17,11:19,2 min,Y	Y	Y	Y	Y	Y	N
+12023,Janshatabdi Express,15:58,16:00,2 min,Y	Y	Y	Y	Y	Y	N
+11448,Shaktipunj Express,15:11,15:13,2 min,Y	Y	Y	Y	Y	Y	Y
+13021,Mithila Express,19:04,19:09,5 min,Y	Y	Y	Y	Y	Y	Y
+13131,Koaa Anvt Express,23:04,23:06,2 min,Y	Y	Y	Y	Y	Y	Y
+12495,Bkn Koaa Superfast Express,10:44,10:46,2 min,N	N	N	Y	N	N	N
+09310,Sdah Indb Special,22:12,22:14,2 min,N	N	N	N	N	N	Y
+09309,Indb Sealdah Special,06:45,06:50,5 min,N	N	N	N	Y	N	N
+15236,Dbg Hwh Express,00:03,00:05,2 min,N	N	N	N	Y	N	N
+15234,Dbg Koaa Express,00:03,00:05,2 min,N	N	Y	N	N	N	Y
+03174,Bny Sdah Special,13:03,13:05,2 min,Y	N	N	N	N	N	N
+12988,Aii Sdah Express,12:51,12:53,2 min,Y	Y	Y	Y	Y	Y	Y
+19414,Koaa Adi Express,15:29,15:31,2 min,N	N	N	N	N	Y	N
+12987,Sdah Ajmer Express,01:23,01:25,2 min,Y	Y	Y	Y	Y	Y	Y
+12371,Hwh Jsm Express,10:17,10:19,2 min,Y	N	N	N	N	N	N
+13156,Mithilanchal Express,23:25,23:27,2 min,Y	N	N	N	Y	N	N
+13025,Hwh Bpl Express,15:29,15:31,2 min,Y	N	N	N	N	N	N

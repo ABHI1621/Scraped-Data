@@ -1,0 +1,135 @@
+end,end 2,end 3,end 4
+Transport - Buses In Durgapur,,,
+"South Bengal State Transport Corporation(SBSTC)  City Depot- 0343 2582754  Prantika- 0343 2572247   
+City Centre- 0343 2546098  Railway Station- 0343 2555028 Mob: 7699993955 Trunk Road Depot- 0343 2605151/ 2003033 Asansol 0341 2274170",,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+04:10,Berhampur,04:50,Berhampur
+05:00,Balurghat,05:00,TATA
+05:15,Berhampur,06:00,Berhampur
+06:15,Digha,07:00,Balurghat
+05:15,Gopiballavpur,05:40,Habra
+05:40,Salar Via Bolpur,06:00,TATA
+06:00,Digha,06:00,Asansol-Malda
+06:15,Lalgola,07:00,Bokaro
+07:00,Balurghat,07:00,Hasnabad
+07:00,Berhampur Via Bolpur,07:00,Asansol-Malda
+07:10,Berhampur,07:15,Dumka
+07:15,Asansol-kalna (Kalnadeep),07:20,Lalgola
+07:30,Asansol-Digha,07:40,Sikarpur Vis Moregram
+07:45,Balurghat Via Malda,07:45,City Centre- kalnadeep
+08:00,Berhampur,08:00,Sikarpur via Burdwan
+08:45,Harischandrapur,09:00,Asansol-Malda
+09:15,Lalgola,10:00,Asansol-Malda
+10:30,Malda,11:00,Asansol-Basairhat
+11:00,Asansol-Lalgola,11:45,Sagardighi via Bolepur
+12:00,Lalgola Via Berhampur,12:00,TATA
+12:30,Lalgola Via Ragunathganj,12:30,Asansol-Kalna
+13:00,Harispur,13:00,Asansol-Malda
+13:15,Asansol-Berhampur,13:30,Krishnanagar
+13:30,Jhargram,13:45,Berhampur
+14:15,Bokaro,14:15,Katwa Via Bolpur
+14:30,Asansol-Habra,14:45,Berhampur
+15:00,Asansol-Midnapur,15:05,City Centre - kalna
+15:15,Lalgola Via Ragunathganj,15:30,Berhampur
+15:30,City Centre-kalna,17:00,Durgapur-Siliguri
+17:45,Asansol-Siliguri,17:45,Malda-Burdwan
+19:00,Bankura-Siliguri,00:00,.
+North Bengal State Transport Corporation(NBSTC),,,
+"City Centre, Durgapur Ph No.- 9434188856/ 7362940321",,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+04:30,City Centre - Siliguri Coachbehar,06:30,City Centre - Siliguri (Rocket Service) Lady Daina
+North Bengal State Transport Corporation(NBSTC),,,
+"Siliguri, Ph No.- 0353-2516639",,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+00:00,Siliguri  -City Centre,00:00,..
+SBSTC Durgapur - Kolkata (Dharmatala ) Bus,,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+04:30,City Center-Kolkata(Bidhannagar),05.45,City Center-Kolkata(Bidhannagar)
+05:30,City Center-Kolkata,06.00,City Center-Kolkata
+06:30,Ukhra -Kolkata,06.45,Asansol -Kolkata(B.Nagar)
+07:00,Asansol  -Kolkata,07.15,City Cenrtre -Kolkata
+07:30,Asansol  -Kolkata,07.40,Bankura  -Kolkata
+07:50,STD HLD 6.40,08.00,City Centre -Kolkata
+08:15,Chittaranjan - Haldia- Kolkata,08.30,Purulia -Kolkata
+.,.,08.45,Bankura  -Kolkata
+09:00,Asansol- Kolkata,09.15,Banpur  -Haldia- Kolkata
+09:30,City Center-Kolkata,09.40,Purulia -Kolkata
+10:00,City Center-Kolkata,10.30,City Centre -Kolkata
+10:40,Asansol- Kolkata(A.C.),11.00,City Centre  -Kolkata
+11:30,Asansol- Kolkata,12.00,City Centre  -Kolkata
+12:30,City Centre  -Kolkata,12.45,Asansol- Kolkata
+13:00,City Centre  -Kolkata,13.15,Purulia - Kolkata (Via Asansol)
+13:30,City Centre  -Kolkata,14.00,City Centre  -Kolkata
+14:30,City Centre  -Kolkata,14.45,Asansol  -Kolkata
+15:00,City Centre  -Kolkata,15.20,Asansol  -Kolkata
+15:30,City Centre  -Kolkata,.,.
+15:40,City Centre  -Kolkata,16.00,City Centre -Kolkata
+16:15,Asansol  -Kolkata,16.30,City Centre -Kolkata
+17:00,City Centre  -Kolkata,17.20,Purulia -Kolkata
+17:40,Asansol   -Kolkata,18.00,City Centre  -Kolkata ( Fri Sat Sun)
+"SBSTC Kolkata, Dharmatala  - Durgapur Bus",,,
+"Esplanade L20 Bus Terminus, Kolkata PH.NO - 033-22486259",,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+05:10,Kolkata- Asansol,05.30,Kolkata- Purulia
+06:00,Kolkata- City Centre,06.15,Kolkata- Asansol
+06:30,Kolkata- City Centre,06.45,Kolkata- Purulia
+07:00,Kolkata- City Centre,07.15,Kolkata- Asansol
+07:30,Kolkata- City Centre,07.45,Kolkata- Asansol
+08:00,Kolkata- City Centre,08.15,Kolkata- City Centre
+08:30,Kolkata- City Centre (Karunayoyee),08.45,Haldia - Chittaranjan (Kolkata)
+09:15,Kolkata- City Centre,09.30,Kolkata- City Centre
+09:45,Kolkata- City Centre,10.00,Kolkata- City Centre
+10:15,Kolkata- City Centre,10.30,Kolkata- Burnpur
+11:00,Kolkata- City Centre,11.15,SRD-HLD - 4.45
+11:30,Kolkata- Asansol,12.00,Kolkata- Asansol
+12:30,Howrah - City Centre,12.45,Kolkata- Purulia
+13:00,Kolkata- Purulia( City),13.15,Kolkata- City Centre
+13:30,Kolkata- Asansol,13.30,Kolkata- City Centre
+13:45,Haldia - Burnpur,14.00,Kolkata- City Centre
+14:15,Kolkata- Purulia ( Via Asansol),14.30,Kolkata- City Centre
+15:00,Kolkata- Asansol,15.30,Kolkata- Asansol
+15:30,Kolkata- Bankura ( City ),15.45,Kolkata- Bankura ( City )
+16:00,Kolkata- City Centre,16.15,Kolkata- Asansol
+16:30,Kolkata- Asansol,17.00,Kolkata- City Centre
+17:15,Kolkata- City (B.Nagar),17.30,Kolkata- City Centre
+18:00,Kolkata- City Centre,18.30,Kolkata- City Centre
+15:00,Barakpur - Durgapur,06.30,"Barakpur Stn,"
+06:45,Habra - City Centre,06.00,Habra via Naihati - Barakpur
+17:45,Kolkata - Asansol,.,.
+City Centre - Karunamoyee Bus (SBSTC),,,
+Karunamoyee Bus stand Ph. no.- 033-22486859/ 9836853555,,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+05:50,City Centre,06:15,City Centre
+06:50,City Centre,07:10,City Centre
+07:20,City Centre,07:40,City Centre
+08:10,City Centre,08:20,City Centre
+08:45,City Centre,09:20,City Centre
+09:55,City Centre,10:15,City Centre
+11:45,City Centre,12:45,City Centre
+13:35,City Centre,14:15,City Centre
+14:55,City Centre,15:30,City Centre
+16:00,City Centre,16:20,City Centre
+16:30,City Centre,16:45,City Centre
+17:25,City Centre,.,.
+"Karunamoyee Bus (SBSTC) - City Centre, DGP",,,
+Karunamoyee Bus stand Ph. no.- 033-22486859/ 9836853555,,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+05:50,Karunamoyee,06:00,Karunamoyee
+06:15,Karunamoyee,06:30,Karunamoyee
+06:40,Karunamoyee,06:45,Karunamoyee
+07:00,Karunamoyee,07:30,Karunamoyee
+08:00,Karunamoyee,09:00,Karunamoyee
+09:30,Karunamoyee,10:30,Karunamoyee
+11:30,Karunamoyee,12:00,Karunamoyee
+12:30,Karunamoyee,13:00,Karunamoyee
+13:30,Karunamoyee,14:00,Karunamoyee
+14:30,Karunamoyee,15:00,Karunamoyee
+15:30,Karunamoyee,16:00,Karunamoyee
+15:30,Karunamoyee,16:00,Karunamoyee
+17:00,Karunamoyee,.,.
+City Centre - Barrackpore (SBSTC),,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+07:05,City Centre,15:10,City Centre
+"City Centre - Mukundpur Via Karunamoyee, Rubi Hospital (SBSTC)",,,
+SCH_DEP,ROUTE NAME,SCH_DEP,ROUTE NAME
+06:50,City Centre,.,.
